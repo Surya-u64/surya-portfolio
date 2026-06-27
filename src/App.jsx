@@ -1245,23 +1245,6 @@ export default function Portfolio() {
                     ))}
                   </div>
                 </div>
-                <button
-                  onClick={() => window.open("/Surya Venkat.pdf", "_blank")}
-                  className="pill glow-btn"
-                  style={{
-                    marginTop: 20,
-                    background: theme.text,
-                    color: theme.bg,
-                    border: "none",
-                    padding: "13px",
-                    cursor: "pointer",
-                    fontSize: 13,
-                    fontWeight: 800,
-                    width: "100%",
-                  }}
-                >
-                  Download Resume →
-                </button>
               </div>
             </div>
 
